@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Wordle</string>
+    <string name="q">Q</string>
+    <string name="u">U</string>
+</resources>
